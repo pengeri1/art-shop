@@ -2,12 +2,16 @@ import React from 'react';
 import { Link } from "react-router-dom";
 import { Layout, Menu } from 'antd';
 import './Navbar.css';
+import logo from './Images/logo.png';
 
 const { Header } = Layout;
 
 function Navbar() {
     return (
         <Header className="navbar-header">
+            <div className="logo-container">
+                <img src={logo} alt="Logo" className="navbar-logo" />
+            </div>
             <Menu className="navbar-menu" mode="horizontal">
                 <Menu.Item key="1">
                     <Link to="/">Home</Link>
