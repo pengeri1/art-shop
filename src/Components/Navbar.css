@@ -1,0 +1,53 @@
+﻿.navbar-header {
+    display: flex;
+    align-items: center;
+    background: #013220;
+    padding: 0 20px;
+    height: 64px;
+    justify-content: center;
+    border-bottom: none;
+}
+
+.navbar-menu {
+    display: flex;
+    justify-content: flex-start;
+    background: #013220;
+    line-height: 64px;
+    font-size: 20px;
+    padding: 0;
+    border-bottom: none;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.navbar-menu .ant-menu-item {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    text-align: center;
+    margin: 0;
+    padding: 0 60px;
+    border-color: #013220 !important;
+    outline-color: #013220 !important;
+    background-color: #013220 !important;
+    color: #ffffff !important;
+}
+
+.navbar-menu .ant-menu-item:hover {
+    background-color: #004225 !important;
+    color: #ffffff !important;
+}
+
+.navbar-menu .ant-menu-item-active {
+    background-color: #004225 !important;
+    color: #ffffff !important;
+}
+
+.navbar-menu .ant-menu-item-open {
+    background-color: #004225 !important;
+    color: #ffffff !important;
+}
+.navbar-menu ant-menu-item-selected {
+    background-color: #004225 !important;
+    color: #ffffff !important;
+}
