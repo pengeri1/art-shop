@@ -7,7 +7,7 @@ const { Content, Footer } = AntLayout;
 
 function Layout() {
     return (
-        <AntLayout style={{ minHeight: '100vh' }}>
+        <AntLayout style={{ minHeight: '100vh', backgroundColor: '#CBD5C0' }}>
             <Navbar />
             <Content style={{ padding: '0 50px', marginTop: '90px', flexGrow: 1 }}>
                 <div style={{ padding: 24, minHeight: '80vh' }}>
