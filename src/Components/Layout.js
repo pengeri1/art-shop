@@ -15,7 +15,7 @@ function Layout() {
                 </div>
             </Content>
             <Footer style={{ textAlign: 'center' }}>
-                Ant Design ©{new Date().getFullYear()} Created by Ant UED
+                {"\u00A9"} 2024 Eric Peng.
             </Footer>
         </AntLayout>
     );

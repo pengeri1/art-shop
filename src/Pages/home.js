@@ -22,49 +22,66 @@ function Home() {
                 }}
             >
                 <div className="image-item">
+                    <div className="sold-out">SOLD OUT</div>
                     <Image width={500} src={graduation} alt="Graduation" />
-                    <div className="image-text">Graduation Album Cover (SOLD OUT)</div>
+                    <div className="image-text">Graduation Album Cover</div>
+                    <div className="image-text">$75.00</div>
                 </div>
                 <div className="image-item">
+                    <div className="sold-out">SOLD OUT</div>
                     <Image width={500} src={borntodie} alt="Born to Die" />
-                    <div className="image-text">Born to Die Album Cover (SOLD OUT)</div>
+                    <div className="image-text">Born to Die Album Cover</div>
+                    <div className="image-text">$75.00</div>
                 </div>
                 <div className="image-item">
                     <Image width={450} src={bluetunnel} alt="Blue Tunnel" />
                     <div className="image-text">Blue Tunnel</div>
+                    <div className="image-text">$20.00</div>
                 </div>
                 <div className="image-item">
+                    <div className="sold-out">SOLD OUT</div>
                     <Image width={500} src={doomsday} alt="Doomsday" />
-                    <div className="image-text">Operation Doomsday Album Cover (SOLD OUT)</div>
+                    <div className="image-text">Operation Doomsday Album Cover</div>
+                    <div className="image-text">$75.00</div>
                 </div>
                 <div className="image-item">
+                    <div className="sold-out">SOLD OUT</div>
                     <Image width={500} src={northernlights} alt="Northern Lights" />
-                    <div className="image-text">Northern Lights (SOLD OUT)</div>
+                    <div className="image-text">Northern Lights</div>
+                    <div className="image-text">$50.00</div>
                 </div>
                 <div className="image-item">
+                    <div className="sold-out">SOLD OUT</div>
                     <Image width={400} src={gunfrog} alt="Gun Frog" />
-                    <div className="image-text">Western Frog (SOLD OUT)</div>
+                    <div className="image-text">Western Frog</div>
+                    <div className="image-text">$50.00</div>
                 </div>
                 <div className="image-item">
                     <Image width={500} src={melodrama} alt="Melodrama" />
                     <div className="image-text">Melodrama Album Cover</div>
+                    <div className="image-text">$50.00</div>
                 </div>
                 <div className="image-item">
                     <Image width={500} src={natgeo} alt="Nat Geo" />
                     <div className="image-text">National Geographic Magazine Cover</div>
+                    <div className="image-text">$45.00</div>
                 </div>
                 <div className="image-item">
                     <Image width={500} src={am} alt="AM" />
                     <div className="image-text">AM Album Cover</div>
+                    <div className="image-text">$20.00</div>
                 </div>
                 
                 <div className="image-item">
                     <Image width={400} src={sale} alt="Sale" />
                     <div className="image-text">Sales LP Album Cover</div>
+                    <div className="image-text">$20.00</div>
                 </div>
                 <div className="image-item">
+                    <div className="sold-out">SOLD OUT</div>
                     <Image width={400} src={suitfrog} alt="Suit Frog" />
-                    <div className="image-text">Frog in a Suit (SOLD OUT)</div>
+                    <div className="image-text">Frog in a Suit</div>
+                    <div className="image-text">$50.00</div>
                 </div>
             </Image.PreviewGroup>
         </div>
