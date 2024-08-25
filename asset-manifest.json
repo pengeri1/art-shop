@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/art-shop/static/css/main.483cc367.css",
-    "main.js": "/art-shop/static/js/main.05ba77af.js",
+    "main.css": "/art-shop/static/css/main.07d1f246.css",
+    "main.js": "/art-shop/static/js/main.ae82c8ec.js",
     "static/js/453.0a9f4b6c.chunk.js": "/art-shop/static/js/453.0a9f4b6c.chunk.js",
     "static/media/natgeo.jpeg": "/art-shop/static/media/natgeo.39c37c5e734173f50dcf.jpeg",
     "static/media/AM.jpeg": "/art-shop/static/media/AM.a420e5df54bca9ecc978.jpeg",
@@ -12,14 +12,16 @@
     "static/media/bluetunnel.jpeg": "/art-shop/static/media/bluetunnel.8cdfdfd337c3d7223f55.jpeg",
     "static/media/borntodie.jpeg": "/art-shop/static/media/borntodie.3471ea5702ea2281a329.jpeg",
     "static/media/sale.jpeg": "/art-shop/static/media/sale.df1a430b1aecd40e74cd.jpeg",
+    "static/media/suitfrog.jpeg": "/art-shop/static/media/suitfrog.5fca9659f7250a45df3d.jpeg",
+    "static/media/gunfrog.jpeg": "/art-shop/static/media/gunfrog.8de4b6310230ef18cedb.jpeg",
     "static/media/logo.png": "/art-shop/static/media/logo.1c74fb48151f74b3dd8e.png",
     "index.html": "/art-shop/index.html",
-    "main.483cc367.css.map": "/art-shop/static/css/main.483cc367.css.map",
-    "main.05ba77af.js.map": "/art-shop/static/js/main.05ba77af.js.map",
+    "main.07d1f246.css.map": "/art-shop/static/css/main.07d1f246.css.map",
+    "main.ae82c8ec.js.map": "/art-shop/static/js/main.ae82c8ec.js.map",
     "453.0a9f4b6c.chunk.js.map": "/art-shop/static/js/453.0a9f4b6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.483cc367.css",
-    "static/js/main.05ba77af.js"
+    "static/css/main.07d1f246.css",
+    "static/js/main.ae82c8ec.js"
   ]
 }
