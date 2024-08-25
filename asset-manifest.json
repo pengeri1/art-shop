@@ -1,15 +1,25 @@
 {
   "files": {
-    "main.css": "/art-shop/static/css/main.d4e2a72c.css",
-    "main.js": "/art-shop/static/js/main.dfa0a328.js",
+    "main.css": "/art-shop/static/css/main.483cc367.css",
+    "main.js": "/art-shop/static/js/main.05ba77af.js",
     "static/js/453.0a9f4b6c.chunk.js": "/art-shop/static/js/453.0a9f4b6c.chunk.js",
+    "static/media/natgeo.jpeg": "/art-shop/static/media/natgeo.39c37c5e734173f50dcf.jpeg",
+    "static/media/AM.jpeg": "/art-shop/static/media/AM.a420e5df54bca9ecc978.jpeg",
+    "static/media/melodrama.jpeg": "/art-shop/static/media/melodrama.637e1eb77b819d75ed0f.jpeg",
+    "static/media/doomsday.jpeg": "/art-shop/static/media/doomsday.6f574826d6caeec6dbe1.jpeg",
+    "static/media/graduation.jpeg": "/art-shop/static/media/graduation.1366fcfba1b630ffa2b3.jpeg",
+    "static/media/northernlights.jpeg": "/art-shop/static/media/northernlights.1e9cca2ea2de637a7422.jpeg",
+    "static/media/bluetunnel.jpeg": "/art-shop/static/media/bluetunnel.8cdfdfd337c3d7223f55.jpeg",
+    "static/media/borntodie.jpeg": "/art-shop/static/media/borntodie.3471ea5702ea2281a329.jpeg",
+    "static/media/sale.jpeg": "/art-shop/static/media/sale.df1a430b1aecd40e74cd.jpeg",
+    "static/media/logo.png": "/art-shop/static/media/logo.1c74fb48151f74b3dd8e.png",
     "index.html": "/art-shop/index.html",
-    "main.d4e2a72c.css.map": "/art-shop/static/css/main.d4e2a72c.css.map",
-    "main.dfa0a328.js.map": "/art-shop/static/js/main.dfa0a328.js.map",
+    "main.483cc367.css.map": "/art-shop/static/css/main.483cc367.css.map",
+    "main.05ba77af.js.map": "/art-shop/static/js/main.05ba77af.js.map",
     "453.0a9f4b6c.chunk.js.map": "/art-shop/static/js/453.0a9f4b6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4e2a72c.css",
-    "static/js/main.dfa0a328.js"
+    "static/css/main.483cc367.css",
+    "static/js/main.05ba77af.js"
   ]
 }
