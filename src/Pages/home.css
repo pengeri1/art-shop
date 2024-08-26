@@ -18,21 +18,19 @@
     background-color: #CBD5C0;
     color: #013220;
     padding: 5px 10px;
-    border-radius: 4px;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: bold;
 }
 
 .image-text {
     text-align: center;
     margin-top: 5px;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 800;
     color: #013220;
 }
 
 .ant-image {
-    border-radius: 8px;
     object-fit: cover;
     display: block;
 }
@@ -42,7 +40,6 @@
 }
 
 .ant-image-preview-img {
-    border-radius: 8px;
 }
 
 .ant-image-preview-wrap {

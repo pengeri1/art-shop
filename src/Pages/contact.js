@@ -33,7 +33,7 @@ function Contact() {
 
     return (
         <div className="contact-container">
-            <h1>Contact Us</h1>
+            <h1>Contact Me</h1>
             <p className="contact-description">Please message if you want to purchase or have any questions about art pieces. Also message about custom orders!</p>
             <form onSubmit={handleSubmit} className="contact-form">
                 <label htmlFor="name">Name:</label>

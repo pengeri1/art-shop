@@ -14,7 +14,7 @@ function Navbar() {
             </div>
             <Menu className="navbar-menu" mode="horizontal">
                 <Menu.Item key="1">
-                    <Link to="/">Home</Link>
+                    <Link to="/">Paintings</Link>
                 </Menu.Item>
                 <Menu.Item key="2">
                     <Link to="/about">About</Link>
