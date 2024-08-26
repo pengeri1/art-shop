@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/art-shop/static/css/main.b8ccf686.css",
-    "main.js": "/art-shop/static/js/main.401a0bb9.js",
+    "main.js": "/art-shop/static/js/main.2946195c.js",
     "static/js/453.0a9f4b6c.chunk.js": "/art-shop/static/js/453.0a9f4b6c.chunk.js",
     "static/media/natgeo.jpeg": "/art-shop/static/media/natgeo.39c37c5e734173f50dcf.jpeg",
     "static/media/AM.jpeg": "/art-shop/static/media/AM.a420e5df54bca9ecc978.jpeg",
@@ -18,11 +18,11 @@
     "static/media/logo.png": "/art-shop/static/media/logo.1c74fb48151f74b3dd8e.png",
     "index.html": "/art-shop/index.html",
     "main.b8ccf686.css.map": "/art-shop/static/css/main.b8ccf686.css.map",
-    "main.401a0bb9.js.map": "/art-shop/static/js/main.401a0bb9.js.map",
+    "main.2946195c.js.map": "/art-shop/static/js/main.2946195c.js.map",
     "453.0a9f4b6c.chunk.js.map": "/art-shop/static/js/453.0a9f4b6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8ccf686.css",
-    "static/js/main.401a0bb9.js"
+    "static/js/main.2946195c.js"
   ]
 }
